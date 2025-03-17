@@ -1,0 +1,47 @@
+.paper{
+  width: 400px;
+  margin-left:110%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 90vh;
+}
+h2{
+  color:blueviolet
+}
+.inputs{
+  width:80%;
+  display: flex ;
+  gap: 10px;
+  flex-direction: column;
+}
+.details{
+  margin-top: 20px;
+  width: 50%;
+  margin-left:110%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 50vh;
+}
+.modal{
+  gap: 20px; 
+  margin-left:auto;
+  text-align: center;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 80vh;
+}
+.modal2{
+  
+  width:80%;
+  display: flex ;
+  gap: 10px;
+  flex-direction: column;
+}
+
+
